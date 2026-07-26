@@ -7,9 +7,9 @@ My previous experience in system administration and teaching IT disciplines has 
 In addition to practical work, I aspire to develop as a researcher in the field of cybersecurity, combining academic research with real-world industry cases. I am always open to new challenges, hands-on experience, and opportunities to expand the boundaries of my knowledge.
 
 ## Currently Working On
-- Developing a SOC Analyst Training Platform
-- Building a cybersecurity portfolio
-- Expanding practical skills in SIEM technologies, Wazuh, and Incident Response
+- Linux Threat Detection & Active Response Lab
+- AWS Cloud Security & Incident Response in Splunk
+- Hybrid Infrastructure Monitoring with Azure & ArcSight
 
 ## Connect with Me
 
