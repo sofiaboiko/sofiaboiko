@@ -7,9 +7,10 @@ My previous experience in system administration and teaching IT disciplines has 
 In addition to practical work, I aspire to develop as a researcher in the field of cybersecurity, combining academic research with real-world industry cases. I am always open to new challenges, hands-on experience, and opportunities to expand the boundaries of my knowledge.
 
 ## Currently Working On
-- Linux Threat Detection & Active Response Lab
-- AWS Cloud Security & Incident Response in Splunk
-- Hybrid Infrastructure Monitoring with Azure & ArcSight
+- ## Currently Working On
+
+- Prototyping a tool that analyzes user-side communications (calls/SMS, email, social media) for social engineering and technical threats, and before blocking an action, verifies not identity (like 2FA) but informed, voluntary consent.
+- Sharpening practical SOC analytics and detection engineering skills through portfolio projects (Splunk, Microsoft Sentinel, Wazuh/ELK).
 
 ## Connect with Me
 
